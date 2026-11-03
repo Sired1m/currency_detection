@@ -2,7 +2,7 @@
 
 A Streamlit web app that detects Bahraini banknotes from a camera photo using a custom-trained YOLO model.
 
-wibsite link: [](https://currencydetection-xvavptzlttqf7vsuv6w3tb.streamlit.app/)
+wibsite link: [LINK](https://currencydetection-xvavptzlttqf7vsuv6w3tb.streamlit.app/)
 
 ## Features
 - Take a picture with your webcam or phone camera
